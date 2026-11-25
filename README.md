@@ -1,8 +1,11 @@
 # muse-gadget-sdk-jiskan
 
-Muse Gadget SDK の標準 CJK フォントを、Jiskan16（JIS X 0213）から作った日本語フォントに差し替えたもの。
+Muse Gadget SDK 用の日本語専用フォントです。  
+JIS X 0213 の第1面・第2面をもとに 11,208 字を収録
 
 ## 説明
+
+
 
 - `muse_font_cjk_16.c` と同名・同インターフェースのドロップイン置換。コード・CONFIG の変更は不要。
 - 11,208 字、フラッシュ約 494 KB（標準は約 1.2 MB）。℃・° 入り。
